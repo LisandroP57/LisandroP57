@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h3>Conocimientos en:</h3>
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 <a href="https://github.com/lisandroP57">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandroP57&theme=dracula&show_icons=true" />

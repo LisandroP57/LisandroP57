@@ -10,3 +10,6 @@
 <a href="https://github.com/lisandroP57">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandroP57&theme=dracula&show_icons=true" />
 </a>
+<div>
+![](https://komarev.com/ghpvc/?username=lisandroP57&color=006bed)
+</div>

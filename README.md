@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3>Conocimientos en:</h3>
 <ul>
-  <li> ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) </li>
+  <li>![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)</li>
   <li> ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </li>
 </ul>
   

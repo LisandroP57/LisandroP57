@@ -1,6 +1,4 @@
 ### Hi there 👋
-<h1 align='center'><a href="https://github.com/lisandroP57"> Lisandro</h1>
-  
 <h3 align='center'> Estudiante de Desarrollo Web Full Stack</h3>
 
 <h3 align='center'> Actualmente aprendiendo: <strong>Node.js,APIs, React</strong></h2>

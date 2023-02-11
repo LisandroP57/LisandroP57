@@ -5,7 +5,7 @@
 
 <h3 align='center'> Mis proyectos estan disponibles <a href="https://github.com/LisandroP57">aquí</a></h2>
 
-<h3 align='center'>Languages & herramientas:</h3>
+<h3 align='center'>Languajes & herramientas:</h3>
 <p align='center'>
   <a href='https://www.w3schools.com/html/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html5' width='40' height='40'/> </a>
     <a href='https://www.w3schools.com/css/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css3' width='40' height='40'/> </a>

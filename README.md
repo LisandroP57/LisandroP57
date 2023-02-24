@@ -3,7 +3,7 @@
 
 <h3 align='center'> Actualmente aprendiendo: <strong>Node.js,APIs, React</strong></h2>
 
-<h3 align='center'> Mis proyectos estan disponibles <a href="https://github.com/LisandroP57">aquí</a></h2>
+<h3 align='center'> Mis proyectos estan disponibles <a href="https://github.com/LisandroP57?tab=repositories">aquí</a></h2>
 
 <h3 align='center'>Languajes & herramientas:</h3>
 <p align='center'>

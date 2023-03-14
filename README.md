@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align='center'> Estudiante de Desarrollo Web Full Stack</h3>
 
-<h3 align='center'> Actualmente aprendiendo: <strong>Node.js,APIs, React</strong></h2>
+<h3 align='center'> Actualmente aprendiendo: <strong>MySQL,APIs</strong></h2>
 
 <h3 align='center'> Mis proyectos estan disponibles <a href="https://github.com/LisandroP57?tab=repositories">aquí</a></h2>
 

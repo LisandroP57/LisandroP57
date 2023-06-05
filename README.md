@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align='center'> Estudiante de Desarrollo Web Full Stack</h3>
 
-<h3 align='center'> Actualmente aprendiendo: <strong>MySQL,APIs</strong></h2>
+<h3 align='center'> Actualmente aprendiendo: <strong>APIs,React</strong></h2>
 
 <h3 align='center'> Mis proyectos estan disponibles <a href="https://github.com/LisandroP57?tab=repositories">aquí</a></h2>
 
@@ -13,7 +13,9 @@
   <a href='https://www.w3schools.com/nodejs/' target='_blank' rel='noreferrer'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40' height='40'/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
+  <a href='https://www.w3schools.com/mysql/' target='_blank' rel='noreferrer'> <img src='https://icons8.com/icon/qGUfLiYi1bRN/my-sql' alt='mysql' width='40' height='40'/> </a>
+  <a href='https://www.w3schools.com/react/' target='_blank' rel='noreferrer'> <img src='https://icons8.com/icon/p57acgidi9bj/react-native' alt='react' width='40' height='40'/> </a>
+  
 <br>
   
   <p align='center'><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandroP57&theme=dracula&show_icons=true" /></p>

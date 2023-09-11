@@ -1,10 +1,7 @@
 ### Hi there 👋
 <h3 align='center'> Programador Web Full Stack</h3>
 
-<h3 align='center'> Actualmente terminando proyectos de: <strong>APIs,React</strong></h2>
-
-
-<h3 align='center'> Mira mis proyectos e info <a href="[https://github.com/LisandroP57?tab=repositories](https://palavecino-lisandrodev.netlify.app/)">aquí!</a></h2>
+<h3 align='center'> Mira mis proyectos e info <a href="https://palavecino-lisandrodev.netlify.app/">aquí!</a></h2>
 
 <h3 align='center'>Languajes & herramientas:</h3>
 <p align='center'>

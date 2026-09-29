@@ -23,8 +23,6 @@
   </div>
   
   <p align='center'><a href='https://github.com/LisandroP57'><img src='https://github-readme-streak-stats.herokuapp.com/?user=lisandroP57&theme=tokyonight'></a></p>
-  
-  <p align='center'><a href='https://github.com/LisandroP57'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroP57&amp;layout=compact&amp;theme=tokyonight' alt='Top Langs'></a></p>
  
   <p align='center'>Profile Visits<p>
   <div align="center">
